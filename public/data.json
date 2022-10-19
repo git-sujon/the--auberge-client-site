@@ -1,0 +1,91 @@
+[
+    {
+      "id": 0,
+      "img": "https://demo.goodlayers.com/hotale/resort/wp-content/uploads/sites/2/2020/10/andrea-davis-1uNh3B3ppl4-unsplash-600x600.jpg",
+      "room_title": "Deluxe Suite Room",
+      "bed": "1 king bed",
+      "guests": 4,
+      "sqm": 40,
+      "descriptions": "Hotale Suites has been honored with the prestigious Five-Star Award by Forbes.",
+      "reviews": 52,
+      "price": 90
+    },
+    {
+      "id": 1,
+      "img": "https://demo.goodlayers.com/hotale/resort/wp-content/uploads/sites/2/2020/10/shop-slo-vhztm9QC0L0-unsplash-600x600.jpg",
+      "room_title": "Standard Deluxe",
+      "bed": "2 Single Beds",
+      "guests": 6,
+      "sqm": 34,
+      "descriptions": "Hotale Suites has been honored with the prestigious Five-Star Award by Forbes.",
+      "reviews": 95,
+      "price": 150
+    },
+    {
+      "id": 2,
+      "img": "https://demo.goodlayers.com/hotale/resort/wp-content/uploads/sites/2/2022/01/andrew-neel-T0eb55DxDN4-unsplash-600x600.jpg",
+      "room_title": "Luxury Suite",
+      "bed": "1 king bed",
+      "guests": 4,
+      "sqm": 30,
+      "descriptions": "Hotale Suites has been honored with the prestigious Five-Star Award by Forbes.",
+      "reviews": 45,
+      "price": 80
+    },
+    {
+      "id": 3,
+      "img": "https://demo.goodlayers.com/hotale/resort/wp-content/uploads/sites/2/2022/01/andrew-neel-T0eb55DxDN4-unsplash-600x600.jpg",
+      "room_title": "The Penthouse",
+      "bed": "2 king bed",
+      "guests": 6,
+      "sqm": 70,
+      "descriptions": "Hotale Suites has been honored with the prestigious Five-Star Award by Forbes.",
+      "reviews": 25,
+      "price": 290
+    },
+    {
+      "id": 4,
+      "img": "https://demo.goodlayers.com/hotale/resort/wp-content/uploads/sites/2/2020/10/shutterstock_560973166-600x600.jpg",
+      "room_title": "Grand Suite Room",
+      "bed": "1 king bed",
+      "guests": 4,
+      "sqm": 50,
+      "descriptions": "Hotale Suites has been honored with the prestigious Five-Star Award by Forbes.",
+      "reviews": 40,
+      "price": 100
+    },
+    {
+      "id": 5,
+      "img": "https://demo.goodlayers.com/hotale/resort/wp-content/uploads/sites/2/2020/10/andrea-davis-1uNh3B3ppl4-unsplash-600x600.jpg",
+      "room_title": "Junior Suite Room",
+      "bed": "1 Double Bed",
+      "guests": 3,
+      "sqm": 35,
+      "descriptions": "Hotale Suites has been honored with the prestigious Five-Star Award by Forbes.",
+      "reviews": 89,
+      "price": 70
+    },
+    {
+      "id": 6,
+      "img": "https://demo.goodlayers.com/hotale/resort/wp-content/uploads/sites/2/2022/01/andrew-neel-T0eb55DxDN4-unsplash-600x600.jpg",
+      "room_title": "Standard Room",
+      "bed": "1 Double Bed",
+      "guests": 4,
+      "sqm": 40,
+      "descriptions": "Hotale Suites has been honored with the prestigious Five-Star Award by Forbes.",
+      "reviews": 67,
+      "price": 99
+    },
+    {
+      "id": 7,
+      "img": "https://demo.goodlayers.com/hotale/resort/wp-content/uploads/sites/2/2022/01/andrew-neel-T0eb55DxDN4-unsplash-600x600.jpg",
+      "room_title": "Family Special Room",
+      "bed": "2 Double Beds",
+      "guests": 6,
+      "sqm": 80,
+      "descriptions": "Hotale Suites has been honored with the prestigious Five-Star Award by Forbes.",
+      "reviews": 23,
+      "price": 190
+    }
+
+  ]
